@@ -1,0 +1,4 @@
+fastmcp
+fastapi
+uvicorn
+pillow
